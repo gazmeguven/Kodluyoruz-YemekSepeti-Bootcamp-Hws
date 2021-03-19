@@ -1,0 +1,4 @@
+C:\Users\Gamze\source\repos\Bootcamp_week4_hw\S5_GenericRepositoryPattern\FilmLibrary.Domain\obj\Debug\netcoreapp3.1\FilmLibrary.Domain.csprojAssemblyReference.cache
+C:\Users\Gamze\source\repos\Bootcamp_week4_hw\S5_GenericRepositoryPattern\FilmLibrary.Domain\obj\Debug\netcoreapp3.1\FilmLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Bootcamp_week4_hw\S5_GenericRepositoryPattern\FilmLibrary.Domain\obj\Debug\netcoreapp3.1\FilmLibrary.Domain.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Bootcamp_week4_hw\S5_GenericRepositoryPattern\FilmLibrary.Domain\obj\Debug\netcoreapp3.1\FilmLibrary.Domain.csproj.CoreCompileInputs.cache
