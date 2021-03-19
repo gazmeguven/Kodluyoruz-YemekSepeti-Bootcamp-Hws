@@ -9,3 +9,5 @@ Yararlanılan Linkler; https://bilisim.io/2020/04/20/clean-code-principles/ http
 S5 - Bir Controller > Services > DbContext yapısı tasarlanarak Generic Repository Pattern uygulanan örnek Örnek 2 controller ve Select - Insert - Update - Delete işlemlerini içermektedir.
 
 Repository Pattern = Veritabanına veri ekleme, güncelleme ve okuma gibi CRUD (Create Read Update Delete) işlemleri için oluşturmuş olduğumuz kodların tekrar kullanılabilirliğini sağlamaktır.
+
+S8 - Derste gerçekleştirilen proje temize çekilip yeniden yazıldı.
